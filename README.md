@@ -22,7 +22,7 @@ A simple terminal-based CRUD system built with Python and SQLite for managing bo
 ```bash
 library/
 ├── data/
-│   └── books_and_readers.db
+│   └── .gitkeep
 ├── main.py
 ├── models.py
 ├── services.py
